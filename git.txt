@@ -1,0 +1,12 @@
+ git config --local user.name "illusionist"
+ git config --local user.email "iamraviraj5@gmail.com"
+ git config --local --list
+
+-- SSH SETUP
+
+git remote -v
+git remote add origin git@github.com:IllusionistCyber/ResumeChatBot.git
+git remote -v
+origin  git@github.com:your-username/your-repo.git (fetch)
+origin  git@github.com:your-username/your-repo.git (push)
+git push -u origin master
