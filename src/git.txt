@@ -1,0 +1,3 @@
+ git config --local user.name "illusionist"
+ git config --local user.email "iamraviraj5@gmail.com"
+ git config --local --list
